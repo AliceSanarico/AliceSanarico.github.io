@@ -84,7 +84,7 @@ params:
         - name: Email
           url: mailto:alice.sanarico@unimi.it
         - name: LinkedIn
-          url: https://linkedin.com/in/your-profile
+          url: https://www.linkedin.com/in/alice-sanarico-04796023b/
     assets:
         disableScrollBarStyle: true
         disalbleHLJS: true
