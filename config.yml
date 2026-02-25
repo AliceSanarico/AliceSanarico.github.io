@@ -1,0 +1,109 @@
+baseURL: "https://alicesanarico.github.io"
+title: Alice Sanarico
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+  main:
+    - name: CV
+      url: /cv.pdf
+      weight: 2
+      params:
+        target: "_blank"
+    - name: Projects
+      url: projects/
+      weight: 3
+    - name: Publications
+      url: publications/
+      weight: 4
+    - name: Teaching
+      url: teaching/
+      weight: 5
+    - name: Conferences & Workshops
+      url: conferences/
+      weight: 6
+
+params:
+    description: "Alice Sanarico – PhD candidate in sociology and methodology of social research studying youth transitions to adulthood, political participation, and gender inequalities"
+    author: Alice Sanarico
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["projects", "publications", "teaching", "conferences"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+      enabled: true
+      title: Alice Sanarico
+      subtitle: |
+        <p class="profile-greeting">Hi, I'm Alice 👋</p>
+
+        <p>I'm a PhD student in Sociology and Methodology of Social Research at the Universities of Milan and Turin, and a member of the <b>spsTREND</b> public opinion research lab. I study how young people imagine and navigate their paths into adulthood, especially in a world shaped by uncertainty, inequality, and shifting social norms.</p>
+
+        <p>My PhD project, <b>Adulthood in the Making</b>, explores how Italian adolescents picture their futures — and how gender, emotions, and broader structural conditions shape their expectations around family, autonomy, and what it even means to "be an adult" today. To do this, I use an explanatory mixed-methods design that blends national survey data with in-depth interviews, because I love combining numbers and narratives to understand the stories behind the statistics.</p>
+
+        <p>Beyond that, I'm very interested in <b>youth transitions</b>, <b>youth political participation</b>, and the inequalities that shape who gets to participate — especially in online spaces. Methodologically, I'm a big fan of mixed methods and the possibilities they open up for studying young people's lives.</p>
+
+        <p>If you want to chat about youth, transitions, politics, methods, or anything in between, feel free to email me — I'm always happy to connect.</p>
+      imageUrl: "picture.png"
+      imageWidth: 230
+      imageHeight: 230
+      buttons:
+        - name: CV
+          url: /cv.pdf
+        - name: Projects
+          url: projects/
+        - name: Publications
+          url: publications/
+        - name: Teaching
+          url: teaching/
+        - name: Conferences & Workshops
+          url: conferences/
+    socialIcons:
+        - name: CV
+          url: /cv.pdf
+        - name: Email
+          url: mailto:alice.sanarico@unimi.it
+        - name: LinkedIn
+          url: https://linkedin.com/in/your-profile
+    assets:
+        disableScrollBarStyle: true
+        disalbleHLJS: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Alice Sanarico"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
