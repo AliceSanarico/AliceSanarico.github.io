@@ -31,5 +31,3 @@ Carriero, R.; Guglielmi, S.; **Sanarico, A.** "Warm Ties, Late Departures: Inter
 Bertolini, S.; Carriero, R.; Guglielmi, S.; Franetovic, G.; Montesoglu, Z.; **Sanarico, A.** "Valori e significati del lavoro negli adolescenti italiani: primi risultati del progetto START" (*Under review*)
 
 ---
-
-*Add your publications following the format above.*
