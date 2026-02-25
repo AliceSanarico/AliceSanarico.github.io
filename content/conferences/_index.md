@@ -5,14 +5,12 @@ url: "/conferences/"
 summary: "conferences"
 ---
 
-## Past
-
 **HTTP://noPARTY.IT** (23 Feb 2026) – Bocconi University, Milan  
 *The Contingent and the Compulsory: How Agency and Future Outlook Shape Fertility Desires Differently for Adolescent Girls and Boys*
 
 **SISEC Annual Conference** (28-31 Jan 2026) – Florence, Italy  
-*Uncertain Futures and Gendered Desires: Understanding Adolescents' Family Aspirations in Italy*  
-*Warm Ties, Late Departures: Intergenerational Relations and Home-Leaving Expectations among Italian Adolescents*
+- *Uncertain Futures and Gendered Desires: Understanding Adolescents' Family Aspirations in Italy*  
+- *Warm Ties, Late Departures: Intergenerational Relations and Home-Leaving Expectations among Italian Adolescents* with Carriero, R. (Presenter) and Guglielmi, S.
 
 **MAYBE-BOND Workshop** (28 Jan 2026) – University of Milan  
 *Who Benefits from Digital Engagement? Gender, Migration Background, and Online Political Participation in Lombardy's Schools*
@@ -31,4 +29,5 @@ summary: "conferences"
 
 **MiA Workshop (MAYBE – YEP! – START)** (9 Dec 2024) – University of Milan  
 *Nativi e seconde generazioni in Italia: domande di ricerca e sfide metodologiche (MAYBE)*
+
 ---
