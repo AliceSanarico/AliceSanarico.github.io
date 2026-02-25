@@ -1,0 +1,27 @@
+/* Force smaller font on content pages */
+body .list,
+body .single {
+    font-size: 14px !important;
+}
+
+.list article *,
+.single article * {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+}
+
+/* Headings */
+.list h2,
+.single h2 {
+    font-size: 1.3rem !important;
+}
+
+.list h3,
+.single h3 {
+    font-size: 1.05rem !important;
+}
+
+/* Keep homepage normal */
+.profile-mode * {
+    font-size: 16px !important;
+}
