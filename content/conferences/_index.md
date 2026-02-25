@@ -5,14 +5,6 @@ url: "/conferences/"
 summary: "conferences"
 ---
 
-## Upcoming
-
-*No upcoming presentations scheduled at this time.*
-
----
-
-## Past
-
 ### HTTP://noPARTY.IT – Hopes for the Transition to Parenthood (2026)
 **Date**: 23 February 2026  
 **Location**: Bocconi University, Milan, Italy  
