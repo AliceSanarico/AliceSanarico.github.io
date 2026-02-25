@@ -67,17 +67,6 @@ params:
       imageUrl: "picture.png"
       imageWidth: 230
       imageHeight: 230
-      buttons:
-        - name: CV
-          url: /cv.pdf
-        - name: Projects
-          url: projects/
-        - name: Publications
-          url: publications/
-        - name: Teaching
-          url: teaching/
-        - name: Conferences & Workshops
-          url: conferences/
     socialIcons:
         - name: CV
           url: /cv.pdf
