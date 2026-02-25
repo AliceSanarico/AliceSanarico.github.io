@@ -5,7 +5,7 @@ url: "/projects/"
 summary: "projects"
 ---
 
-## Research Projects
+## Research Projects I'm part of 📊
 
 ### START – Surfing Transitions to Adulthood: Resources and Timing, Intergenerational, Intercultural, Italy-Economic
 **Period**: March 2024 – ongoing  
