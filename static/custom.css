@@ -1,0 +1,21 @@
+/* Make font smaller only on content pages (not homepage) */
+.list .main article,
+.single .main article {
+    font-size: 15px;
+}
+
+/* Adjust heading sizes on content pages */
+.list .main h2,
+.single .main h2 {
+    font-size: 1.5rem;
+}
+
+.list .main h3,
+.single .main h3 {
+    font-size: 1.2rem;
+}
+
+/* Keep homepage profile text at default size */
+.profile-mode {
+    font-size: inherit;
+}
