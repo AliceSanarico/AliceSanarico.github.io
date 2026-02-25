@@ -21,9 +21,6 @@ menu:
     - name: Publications
       url: publications/
       weight: 4
-    - name: Teaching
-      url: teaching/
-      weight: 5
     - name: Conferences & Workshops
       url: conferences/
       weight: 6
@@ -43,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["projects", "publications", "teaching", "conferences"]
+    MainSections: ["projects", "publications", "conferences"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
