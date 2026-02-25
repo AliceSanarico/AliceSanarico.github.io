@@ -72,7 +72,6 @@ params:
         - name: LinkedIn
           url: https://linkedin.com/in/your-profile
     assets:
-        customCSS: ["custom.css"]
         disableScrollBarStyle: true
         disalbleHLJS: true
     cover:
