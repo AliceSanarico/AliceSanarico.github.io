@@ -5,14 +5,14 @@ url: "/publications/"
 summary: "publications"
 ---
 
-## Published
+## Published 📄
 
 Guglielmi, S., Riniolo, V., Maggini, N., Visioli, M. & **Sanarico, A.** (2025). "The Girl Must Stay Quiet": Marginalisation of Young Women in Political Spaces and the Impact of Gender Socialization and Ethnic Background. *SocietàMutamentoPolitica*, 16(31), 59–74.  
 [https://doi.org/10.36253/smp-15649](https://doi.org/10.36253/smp-15649)
 
 ---
 
-## Working Papers
+## Working Papers 🌱
 
 **Sanarico, A.** "Uncertain Futures and Gendered Desires: Understanding Adolescents' Family Aspirations in Italy"
 
