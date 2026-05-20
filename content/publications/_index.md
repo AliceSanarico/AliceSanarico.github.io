@@ -10,6 +10,8 @@ summary: "publications"
 Guglielmi, S., Riniolo, V., Maggini, N., Visioli, M. & **Sanarico, A.** (2025). "The Girl Must Stay Quiet": Marginalisation of Young Women in Political Spaces and the Impact of Gender Socialization and Ethnic Background. *SocietàMutamentoPolitica*, 16(31), 59–74.  
 [https://doi.org/10.36253/smp-15649](https://doi.org/10.36253/smp-15649)
 
+**Sanarico, A.** (2026). Who Gets a Voice Online? Family Resources, Gender, and Cohort Differences in Youth Political Participation in Europe. *Int J Polit Cult Soc*. https://doi.org/10.1007/s10767-026-09582-4
+
 ---
 
 ## Working Papers 🌱
@@ -23,10 +25,6 @@ Carriero, R.; Guglielmi, S.; **Sanarico, A.** "Warm Ties, Late Departures: Inter
 **Sanarico, A.**; Bresciani, C.; Taddei, F.; Marolla, F. "Disconnected Agendas: Youth Priorities, Social Media, and Candidate Agendas in the 2024 European Elections"
 
 **Sanarico, A.**; Dolci, G. "Who Benefits from Digital Engagement? Gender, Migration Background, and Online Political Participation in Lombardy's Schools"
-
-**Sanarico, A.** "Who Gets a Voice Online? Family Resources, Gender, and Cohort Differences in Youth Political Participation in Europe" (*Under review*)
-
-**Sanarico, A.**; Guglielmi, S. "A Scoping Review of Second-Generation Immigrants in Italy: Topics, Trends, and Challenges (2013-2023)" (*Submitted*)
 
 Bertolini, S.; Carriero, R.; Guglielmi, S.; Franetovic, G.; Montesoglu, Z.; **Sanarico, A.** "Valori e significati del lavoro negli adolescenti italiani: primi risultati del progetto START" (*Under review*)
 
