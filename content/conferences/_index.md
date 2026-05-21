@@ -4,6 +4,8 @@ layout: "list"
 url: "/conferences/"
 summary: "conferences"
 ---
+**CS2 Italy Conference** (20 May 2026) - Turin, Italy
+*Disconnected Agendas: Youth Priorities, Social Media, and Candidate Agendas in the 2024 European Elections* with Federico Taddei, Chiara Bresciani and Francesco Marolla
 
 **HTTP://noPARTY.IT** (23 Feb 2026) – Bocconi University, Milan  
 *The Contingent and the Compulsory: How Agency and Future Outlook Shape Fertility Desires Differently for Adolescent Girls and Boys*
