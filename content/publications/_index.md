@@ -16,7 +16,9 @@ Guglielmi, S., Riniolo, V., Maggini, N., Visioli, M. & **Sanarico, A.** (2025). 
 
 ## Working Papers 🌱
 
-**Sanarico, A.** "Uncertain Futures and Gendered Desires: Understanding Adolescents' Family Aspirations in Italy"
+**Sanarico, A.** "Narrating Futures, Imagining Parenthood: Self-Efficacy, Future Outlook, and Fertility Desires Among Italian Adolescents"
+
+**Sanarico, A.** "Some Wonder, Some Don't: Emerging Adulthood Profiles and Socio-demographic Differences Among Upper Secondary Students in Lombardy"
 
 Guglielmi, S.; **Sanarico, A.**; Maggini, N. "How Migrant Backgrounds Shape Early Preferences for Parenthood Timing: A Comparison Between Natives and Second-Generation Immigrants in a Student Cohort in Lombardy (Italy)"
 
