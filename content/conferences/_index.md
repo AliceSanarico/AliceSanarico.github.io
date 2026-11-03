@@ -4,6 +4,12 @@ layout: "list"
 url: "/conferences/"
 summary: "conferences"
 ---
+**START Final Conference** (4 November 2026) - Turin, Italy
+*Leaving Home, Becoming an Adult: Migration Background and Expectations of Residential Autonomy* with Matilde Perotti ans Alessandro Di Nallo
+
+**ESA 2020** (25-28 August 2026) - Warsaw, Poland
+*Gendered Futures, Shared Desires: Italian Adolescents’ Fertility Narratives Under Structural Uncertainty*  
+
 **CS2 Italy Conference** (20 May 2026) - Turin, Italy
 *Disconnected Agendas: Youth Priorities, Social Media, and Candidate Agendas in the 2024 European Elections* with Federico Taddei, Chiara Bresciani and Francesco Marolla
 
