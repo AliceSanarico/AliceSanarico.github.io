@@ -19,7 +19,7 @@ Guglielmi, S., Riniolo, V., Maggini, N., Visioli, M. & **Sanarico, A.** (2025). 
 Lock Out Young Candidates”](https://theloop.ecpr.eu/how-italys-new-electoral-law-could-lock-out-young-candidates/), The Loop, 29/10/2026
 
 **Alice Sanarico**, ”Giovani, valori e partecipazione: tre progetti di ricerca per accompagnare la transizione
-all’et`a adulta” [Youth, Values and Participation: Three Research Projects Supporting the Transition to
+all’età adulta” [Youth, Values and Participation: Three Research Projects Supporting the Transition to
 Adulthood](https://www.secondowelfare.it/giovani/giovani-valori-e-partecipazione-tre-progetti-di-ricerca-per-accompagnare-la-transizione-alleta-adulta/), Percorsi di Secondo Welfare, 12/01/2026
 
 ---
