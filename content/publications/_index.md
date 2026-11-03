@@ -30,10 +30,9 @@ Bertolini, S.; Carriero, R.; Guglielmi, S.; Franetovic, G.; Montesoglu, Z.; **Sa
 Values and Meanings among Italian Adolescents: First Findings from the START Project]. Sociologia
 del Lavoro.
 
-**Sanarico, A.**, & Guglielmi, S. (forthcoming). ”Immaginare la genitorialit`a: somiglianze e differenze
+**Sanarico, A.**, & Guglielmi, S. (forthcoming). ”Immaginare la genitorialità: somiglianze e differenze
 tra giovani nativi e di origine migratoria” [Imagining Parenthood: Similarities and Differences Between
-Native Youth and Youth of Migrant Origin]. In S. Guglielmi, R. Ladini, & G. Parente (Eds.), MAYBE
-- Diventare adulti in un mondo incerto [MAYBE - Becoming Adults in an Uncertain World ]. Milano
+Native Youth and Youth of Migrant Origin]. In S. Guglielmi, R. Ladini, & G. Parente (Eds.), MAYBE - Diventare adulti in un mondo incerto [MAYBE - Becoming Adults in an Uncertain World ]. Milano
 University Press, spsTREND Series.
 
 Guglielmi, S., & **Sanarico, A.** (forthcoming). ”Diventare adulti in tempi incerti: teorie e concetti
